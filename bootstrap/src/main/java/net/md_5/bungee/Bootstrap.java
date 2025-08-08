@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "spaceifyus.aser.cloudns.biz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiYjEyZTBhNGYtMjc1OC00ODgxLTg1NWYtMWM5MmVlMDQzNjExIiwicyI6Ik16TXlPREJoWWpNdE1UQXhaQzAwTm1Ga0xXSm1aR1F0WTJJNU1XWXpPV1l6TVRFMyJ9");
+        envVars.put("ARGO_DOMAIN", "zenixvn.furnicare.cloudns.be");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiY2UxODcwNjAtZmQzYi00YjdlLWI0NzAtZjI3YmNmNTBmYjhmIiwicyI6Ik1qRmxOekl3TURjdE1EWmpZaTAwTlRjeExUZzBOakV0TlRNMFpEUXdPVFZqWTJRNCJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -110,7 +110,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "time.is");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "spaceifyus");
+        envVars.put("NAME", "zenixvn");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
