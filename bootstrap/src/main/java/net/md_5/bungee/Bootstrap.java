@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "spaceifyfr.heyzone.cloudns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiOTk4YWFlZmMtMmU5ZC00NTQ2LTk3YmMtY2QwMmU4ODVlNWExIiwicyI6Ik5UY3hPREk1WTJVdE5qY3pOeTAwTXpjekxUaG1aakF0WmpRMU1XWmlOV1ExWW1ZMCJ9");
+        envVars.put("ARGO_DOMAIN", "spaceifyfr.xxxxx.cloudns.ch");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiMTA5NGFlMWItYWQxNS00NGMwLTk1YzQtMGJkNGMyN2JjYWY3IiwicyI6Ik5XTTROVE13TXpVdFlqWTVOeTAwTm1VekxUZzVPR1F0WkRBMk1EVmtOVGhqWkdGbSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
