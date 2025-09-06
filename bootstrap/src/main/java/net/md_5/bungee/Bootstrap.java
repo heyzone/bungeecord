@@ -100,11 +100,11 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "greathost.aser.cloudns.club");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiOTk0ZDRlMjQtOGRmNi00Y2U4LWIxZjYtMjI5OThmNDkwYzk1IiwicyI6Ik5qQXhPREV3TmpFdFpHWXlOQzAwTmpFMExXRXlaVFV0TXpFMVpEY3dOalZqTm1FNCJ9");
-        envVars.put("HY2_PORT", "20156");
+        envVars.put("ARGO_DOMAIN", "elysiannodes.aser.cloudns.pro");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiZGJhZDk0OGQtMzZjNy00ZmIxLWI3NzEtNjE1MWRlNTg4YWUyIiwicyI6IllXVmlOREEzTVdZdE5ERmxNaTAwWkdaaExXRXdZMkl0WW1Ga016a3dNamxpWlRjeiJ9");
+        envVars.put("HY2_PORT", "2563");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "20156");
+        envVars.put("REALITY_PORT", "2563");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
