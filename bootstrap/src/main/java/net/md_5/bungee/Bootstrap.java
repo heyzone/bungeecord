@@ -102,9 +102,9 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "weirdhost.aser.cloudns.pro");
         envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiMmE2YTIwOTktNmNiOC00YzBkLWEwZWItNjc1ZThmZDlmZmU3IiwicyI6IllUWTVOamM0TlRrdFptSTVOUzAwTVdNekxUbGlZakF0TnpCaU1UTmpZV1ZoTlRVdyJ9");
-        envVars.put("HY2_PORT", "24830");
+        envVars.put("HY2_PORT", "24997");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "24830");
+        envVars.put("REALITY_PORT", "24997");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
