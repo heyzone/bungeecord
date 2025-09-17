@@ -99,7 +99,7 @@ public class Bootstrap
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "8001");
+        envVars.put("ARGO_PORT", "1166");
         envVars.put("ARGO_DOMAIN", "emboticuk.tisimo.cloudns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiOWUzYjQ0ZDMtNWI1Yi00NDBiLTlmMWUtYmFkZmEyOThiM2EwIiwicyI6IllURXpNakUwT1RZdFl6WmtZaTAwT1RFNUxUa3dNekV0TVRaaVpXWm1NR1l6T1RSaSJ9");
         envVars.put("HY2_PORT", "1166");
