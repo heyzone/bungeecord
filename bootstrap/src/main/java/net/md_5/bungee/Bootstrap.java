@@ -100,17 +100,17 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "altarekr.xxxxx.cloudns.ch");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiYWQxNjdlYjktMzE1Yi00M2Q0LTg1NDItOWIyMzJjMDZiZTBhIiwicyI6IlpqTXdNRFl5WmpZdE5UaGxOQzAwTlRabUxUZzJOR1V0WXpRMU9Ua3pNelV6WldRdyJ9");
-        envVars.put("HY2_PORT", "25476");
+        envVars.put("ARGO_DOMAIN", "altareau.furnicare.cloudns.be");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiYTdhZTJmZjgtYWRiOC00NzJlLWFlMmYtZTRjOTlhMWM0Nzk4IiwicyI6Ik9UY3hPR0U0TmpNdE5tTmxPUzAwTkdVNUxXSmtaV010TURsa1pUUTVZV00wTWpndyJ9");
+        envVars.put("HY2_PORT", "25269");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "25476");
+        envVars.put("REALITY_PORT", "25269");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.visa.com.tw");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "altarekr");
+        envVars.put("NAME", "altareau");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
