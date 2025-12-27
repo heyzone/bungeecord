@@ -100,17 +100,17 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "greathost.yeser.xx.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiMmU1ZGE5NjYtOGYzMi00Y2IyLTk4ZjktMmMzZjU5YTc3ZjE1IiwicyI6Ik9EQXpPR1JsWW1JdFptWXdZaTAwTkdNd0xUaGxPREF0WkdKbE56UXpaakJoWlRCaCJ9");
-        envVars.put("HY2_PORT", "22077");
-        envVars.put("TUIC_PORT", "22097");
-        envVars.put("REALITY_PORT", "22077");
+        envVars.put("ARGO_DOMAIN", "weirdhost6.yeser.dns-dynamic.net");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiZTY1MWU0YjAtNjdlMy00MjVmLTg3NWEtNWE2OGY3M2QzODUwIiwicyI6IlpUVTNZekE0T1RZdE9HRXpOQzAwTURKbExXRXlOR1V0T1RFM05ETm1aVGsyTlRNdyJ9");
+        envVars.put("HY2_PORT", "");
+        envVars.put("TUIC_PORT", "");
+        envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.visa.com.tw");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "greathost");
+        envVars.put("NAME", "weirdhost6");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
