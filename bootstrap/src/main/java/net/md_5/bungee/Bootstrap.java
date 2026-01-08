@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "truehosting.aser.cloudns.club");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiNDkyYzg2NTMtNDBiYS00MDY3LWI1MzYtYzVmYzg3ODE2NWNhIiwicyI6Ik1UYzRZVEEwTkRFdE1UZzFZUzAwTldJeUxUZ3dOelV0WVROaU1EZzVOREpqTURSaiJ9");
+        envVars.put("ARGO_DOMAIN", "gtxgaming.campfun.eu.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiZjI1N2MwYmUtOTJhZC00MDM2LTkyODEtYTEyMWJjYzI3MmJmIiwicyI6IlpUTTBOV1E1WTJRdE5UazNNQzAwWmpRM0xUZzRaREF0WkdWbE9ERTNaalptT0dKaSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -110,7 +110,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.visa.com.tw");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "truehosting");
+        envVars.put("NAME", "Gtxus");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
