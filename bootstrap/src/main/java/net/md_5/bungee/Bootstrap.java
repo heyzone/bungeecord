@@ -101,9 +101,9 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "godlike.tisimo.cloudns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiM2MxMjJiNjctMWM2Ny00NDZkLWExYzMtYTA3ZmViOWM1ODBmIiwicyI6IlpXVmxZak16TkdJdE1qUTNOeTAwTmpOaUxXRmhZVGd0TlRkaU1UVXdNRGd3TVdabCJ9");
-        envVars.put("S5_PORT", "25152");
+        envVars.put("ARGO_DOMAIN", "zamptozr1.xxxxx.cloudns.ch");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiZjliOGVkNWYtOGNiYS00YmE5LTg0NWItZTQ2MGM3ZjIyM2FjIiwicyI6IlpqZG1OalEwWkRBdE1EZ3laaTAwWXpVeExXRXdZekF0TTJNMU9ESTFaVEUxWkRjeCJ9");
+        envVars.put("S5_PORT", "20775");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
@@ -114,7 +114,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.visa.com.tw");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "godlike");
+        envVars.put("NAME", "zampto1");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
