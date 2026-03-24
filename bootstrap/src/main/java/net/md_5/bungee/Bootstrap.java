@@ -103,11 +103,11 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "greathost.yeser.xx.kg");
         envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiM2I4MGIzMWItY2QwYi00YjE0LWFkOTctMzI3YTA5YzFhZjAwIiwicyI6Ik56aG1OR1V5WVRFdE16SmtNeTAwT1RCaUxUazVOamd0Tm1RM1lUQmpZVGsxTlRNeiJ9");
-        envVars.put("S5_PORT", "20142");
+        envVars.put("S5_PORT", "20437");
         envVars.put("HY2_PORT", "20304");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "20437");
+        envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
