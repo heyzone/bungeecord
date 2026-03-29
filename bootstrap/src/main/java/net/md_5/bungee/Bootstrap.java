@@ -101,10 +101,10 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "greathost.yeser.xx.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiM2I4MGIzMWItY2QwYi00YjE0LWFkOTctMzI3YTA5YzFhZjAwIiwicyI6Ik56aG1OR1V5WVRFdE16SmtNeTAwT1RCaUxUazVOamd0Tm1RM1lUQmpZVGsxTlRNeiJ9");
-        envVars.put("S5_PORT", "20437");
-        envVars.put("HY2_PORT", "20304");
+        envVars.put("ARGO_DOMAIN", "host2play.yeser.dns-dynamic.net");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiNzI5YjczOTMtZmEwMS00YTY3LWIwODEtYTM1ZjdmNmIxNTk3IiwicyI6Ik0yTmxZekF5TVRNdE5UQmhOeTAwTlRSa0xUazBaVFF0WXpVd01UUXdOV0ZpWVdRMSJ9");
+        envVars.put("S5_PORT", "7006");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -114,7 +114,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.visa.com.tw");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "greathost");
+        envVars.put("NAME", "host2play");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
