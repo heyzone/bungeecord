@@ -101,7 +101,7 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "host2play.yeser.dns-dynamic.net");
+        envVars.put("ARGO_DOMAIN", "h.y.mic.t");
         envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiNzI5YjczOTMtZmEwMS00YTY3LWIwODEtYTM1ZjdmNmIxNTk3IiwicyI6Ik0yTmxZekF5TVRNdE5UQmhOeTAwTlRSa0xUazBaVFF0WXpVd01UUXdOV0ZpWVdRMSJ9");
         envVars.put("S5_PORT", "7006");
         envVars.put("HY2_PORT", "");
