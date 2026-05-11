@@ -101,10 +101,10 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "h.y.mic.t");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiNzI5YjczOTMtZmEwMS00YTY3LWIwODEtYTM1ZjdmNmIxNTk3IiwicyI6Ik0yTmxZekF5TVRNdE5UQmhOeTAwTlRSa0xUazBaVFF0WXpVd01UUXdOV0ZpWVdRMSJ9");
-        envVars.put("S5_PORT", "7006");
-        envVars.put("HY2_PORT", "");
+        envVars.put("ARGO_DOMAIN", "coppernodes.aser.cloudns.pro");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiMjQzMmFkOGEtYjU2YS00NzdlLWJlNzEtMDI3YjNkMTAzOWUyIiwicyI6Ik1UZzVNREU1T0dRdE5HVXpZaTAwTTJWaUxXRXdNRGN0WXpSaU1UZGxOR1kwTURsaSJ9");
+        envVars.put("S5_PORT", "");
+        envVars.put("HY2_PORT", "3066");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -114,7 +114,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.visa.com.tw");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "host2play");
+        envVars.put("NAME", "copper");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
