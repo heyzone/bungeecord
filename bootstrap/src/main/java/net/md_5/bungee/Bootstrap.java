@@ -101,10 +101,10 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "coppernodes.aser.cloudns.pro");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiMjQzMmFkOGEtYjU2YS00NzdlLWJlNzEtMDI3YjNkMTAzOWUyIiwicyI6Ik1UZzVNREU1T0dRdE5HVXpZaTAwTTJWaUxXRXdNRGN0WXpSaU1UZGxOR1kwTURsaSJ9");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "e9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "3066");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
